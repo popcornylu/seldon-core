@@ -1,4 +1,4 @@
-module github.com/seldonio/seldon-core/operator
+module github.com/popcornylu/seldon-core/operator
 
 go 1.13
 
